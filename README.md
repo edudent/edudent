@@ -2,7 +2,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=edudent&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br"
+  srcset="https://github-readme-stats.vercel.app/api?username=edudent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
   media="(prefers-color-scheme: dark)"
 />
 <source
